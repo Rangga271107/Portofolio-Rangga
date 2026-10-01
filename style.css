@@ -1,0 +1,76 @@
+body {
+
+    background-color: blanchedalmond;
+
+    margin: 0;
+}
+
+.header {
+
+    text-align: center;
+}
+
+.header {
+background-color: bisque;
+color: white;
+padding: 30px;
+
+}
+
+.content{
+
+    width: 80%;
+    max-width: 800%;
+    margin: 30px auto;
+    background-color: white;
+    padding: 30px;
+
+}
+
+.content h2 {
+
+    color: burlywood;
+    border-bottom: 2px solid;
+    padding-bottom: 5px;
+
+}
+
+.content h3 {
+
+    color: white;
+
+}
+.content p{
+
+    line-height: 1.6;
+
+}
+
+.content img{
+
+    border-radius: 50%;
+    object-fit: cover;
+
+}
+
+.content a {
+
+    color: white;
+
+}
+
+.content li {
+
+    margin-bottom: 8px;
+
+
+}
+
+#footer {
+
+    text-align: center;
+    background-color: antiquewhite;
+    color: white;
+    padding: 15px;
+    margin-top: 30px;
+}
